@@ -1,0 +1,8 @@
+camiseta regata
+p
+40
+50.0
+bermuda jeans
+g
+80
+15.0
